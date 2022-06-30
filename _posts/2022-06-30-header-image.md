@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Bienvenue sur ARCKEhub
+tags: Bienvenue
 article_header:
   type: overlay
   theme: dark
