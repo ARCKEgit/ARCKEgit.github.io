@@ -28,7 +28,9 @@ key: page-about
 
 ![Bio](/Images/Jinx.jpg)
 
-Coucou c'est moi
+Lorem Ipsum
+
+Discord: ARCKE.#8305
 
 ## Matthis ACKER
 
