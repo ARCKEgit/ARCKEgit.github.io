@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![Bio](https://github.com/ARCKEgit/ARCKEgit.github.io/blob/387760e95af4b8d60edd62f4cf7f385a7d607e0e/Images/dino.gif)
+![Bio](https://github.com/ARCKEgit/ARCKEgit.github.io/blob/a246c00dd7263df933901b921665b58c5c83c921/Images/Jinx.jpg)
 
 Coucou c'est moi
 
