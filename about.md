@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![Bio](https://github.com/ARCKEgit/ARCKEgit.github.io/blob/a246c00dd7263df933901b921665b58c5c83c921/Images/Jinx.jpg)
+![Bio](/Images/Jinx.jpg)
 
 Coucou c'est moi
 
