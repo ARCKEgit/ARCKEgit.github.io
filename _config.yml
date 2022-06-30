@@ -109,6 +109,20 @@ sources: # bootcdn (default), unpkg
 sharing:
   provider: addtoany # false (default), "addtoany", "addthis", "custom"
 
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_google_gmail"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_twitter"></a>
+</div>
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.onclick = 1;
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
   ## AddThis
   addthis:
     id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
