@@ -6,7 +6,7 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    gradient: 'linear-gradient(135deg, rgba(30, 30, 30 , .4), rgba(255, 162, 30, .4))'
     src: /Images/grubs.jpg
 ---
 
